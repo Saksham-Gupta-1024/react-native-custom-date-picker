@@ -1,0 +1,23 @@
+{
+  "name": "@saksham-gupta-1024/react-native-custom-date-picker",
+  "version": "1.0.1",
+  "description": "The React Native Date Picker Library is a versatile and customizable date picker component for React Native applications. This library is designed to provide cross-platform support, enabling it to run seamlessly on both iOS and Android platforms. With various customization options, you can tailor the date picker to suit your application's design and functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saksham Gupta",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.4"
+  },
+  "keywords": [
+    "date-picker",
+    "only year date picker",
+    "picker",
+    "year-picker",
+    "month-year-picker",
+    "custom-picker"
+  ]
+}
